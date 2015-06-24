@@ -1,13 +1,7 @@
-import com.sun.org.apache.xpath.internal.operations.Equals;
 import org.junit.Before;
 import org.junit.Test;
-import org.junit.runner.RunWith;
-
 import static org.junit.Assert.assertEquals;
 
-/**
- * Created by bagirov on 23.06.2015.
- */
 public class TriangleTests {
     Triangle triangle;
 
